@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true report of the most gratious and mercifull message of Hir Most Excellent Maiestie sent by the righte honourable Sir Christopher Hatton Knight, vizchamberlaine, &amp; one of Hir Highnesse most honourable priuie counsell, to the place where Thomas Appeltree should haue suffered for his most traitorlike action ; with such other discourse as it pleased him to vse vpon the matter at the same time, wherein nothing is added, but his onely speach verbatim, as my weake memorie would serue me to doe it.</title>
+            <author>Hatton, Christopher, Sir, 1540-1591.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1579</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69275</idno>
+            <idno type="STC">STC 7602.5</idno>
+            <idno type="STC">ESTC S1088</idno>
+            <idno type="EEBO-CITATION">20059229</idno>
+            <idno type="OCLC">ocm 20059229</idno>
+            <idno type="VID">13991</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69275)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 13991)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1727:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true report of the most gratious and mercifull message of Hir Most Excellent Maiestie sent by the righte honourable Sir Christopher Hatton Knight, vizchamberlaine, &amp; one of Hir Highnesse most honourable priuie counsell, to the place where Thomas Appeltree should haue suffered for his most traitorlike action ; with such other discourse as it pleased him to vse vpon the matter at the same time, wherein nothing is added, but his onely speach verbatim, as my weake memorie would serue me to doe it.</title>
+                  <author>Hatton, Christopher, Sir, 1540-1591.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Henry Bynneman,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>CI].I].LXXIX. Iulij. XXIIII [24 July 1579]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴(-A1) B³.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:13991:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 71 -->
+            <p>A TRVE REPORT Of the moſt gratious and mercifull meſſage of hir moſt ex<g ref="char:EOLhyphen"/>cellent <hi>Maiestie, ſent by the righte</hi> honourable Sir Chriſtopher Hatton Knight, Vizchamberlaine, &amp; one of hir High<g ref="char:EOLhyphen"/>neſſe moſt honourable priuie Counſell, to the place where THOMAS APPEL<g ref="char:EOLhyphen"/>TREE ſhould haue ſuffered for his moſt Traitorlike action: <hi>With ſuch other diſcourſe as it pleaſed him to vſe vpon the matter at the ſame time: wherein no<g ref="char:EOLhyphen"/>thing is added, but his onely ſpeach verba<g ref="char:EOLhyphen"/>tim, as my weake memorie would ſerue me to doe it.</hi>
+            </p>
+            <figure>
+               <head>CHARITAS</head>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed at London, by Henry Bynneman. <hi>Anno.</hi> M.D.LXXIX. <hi>Iulij.</hi> XXIIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:13991:2"/>
+            <!-- PDF PAGE 72 -->
+            <pb facs="tcp:13991:2"/>
+            <!-- PDF PAGE 72 -->
+            <opener>
+               <salute>
+                  <seg rend="decorInit">M</seg>Aster Carie,</salute>
+            </opener>
+            <p>Hir moſt excellent ma<g ref="char:EOLhyphen"/>ieſtie is pleaſed to ſende me to deliuer hir commandement to you touching this man novv here pre<g ref="char:EOLhyphen"/>ſently to die.<note place="margin">The people doubted of a pardon at his first ſpeache.</note> And firſt, I thinke it not out of purpoſe, to notifie his offence to theſe good people, vvherby he is not only vvorthie this puniſh<g ref="char:EOLhyphen"/>ment: but in iudgement of forraine nations, and by cenſure of forraine lavves, ſhould bee deliuered to the tormentors, to endure ſuch torture, as the qualitie of his offence in ſo high a caſe by good pollicie ſhould co<g ref="char:cmbAbbrStroke">̄</g>dign<g ref="char:EOLhyphen"/>lie deſerue.</p>
+            <p>
+               <note place="margin">The people maruelous attentiue to heare.</note>And to ſpeake of this fact, ſuche it vvas, and ſo feareful, as my heart quaketh, and my eyes can not refraine teares to repeate it a<g ref="char:EOLhyphen"/>gaine amongſt you. (God for his mercies ſake ſhielde, and defende hir moſt excellent Maieſtie, that moſt mightily hath digeſted the notable daunger.) And ſo I vvil tell you
+<pb facs="tcp:13991:3"/>
+               <!-- PDF PAGE 73 -->of this tragedie in courſe as it fel out.</p>
+            <p>It liked hir highneſſe in reſpecte of the great heate,<note place="margin">The cauſe is declared why hir Maiestie toke the water</note> to take the ayre of the vvater, vvher in graue and vvaightie negociation ſhe paſſed the time in diſcourſe vvith the French Embaſſadour by the ſpace of an houre or tvvo. In hir returne it pleaſed hir to take di<g ref="char:EOLhyphen"/>uerſe pauſes, and the rather, by cauſe ſhe ear<g ref="char:EOLhyphen"/>neſtly redde a Booke, vvherin it ſeemed for recreations ſake ſhe toke ſome delighte. By meanes vvhereof (euen as it pleaſed God vvith his holy hande, as it vvere, to direct hir ſafetie) ſhe commaunded the Bargemen to ſlacke their labour,<note place="margin">Only gods pro<g ref="char:EOLunhyphen"/>uidence in ſa<g ref="char:EOLhyphen"/>uing hir Ma<g ref="char:EOLhyphen"/>iesty from the ſhotte.</note> and ſlovvly to paſſe on, vvhere if they had haſted but tvvo ſtroakes more, they had brought hir royall perſon in<g ref="char:EOLhyphen"/>to the ſhotte it ſelfe.</p>
+            <p>Theſe vvordes vvere ſcarcely ſpoken out by hir Maieſtie, but his caitiue moſt vnhap<g ref="char:EOLhyphen"/>pilie (I muſt ſay moſt diuelliſhly) diſcharged his Arquebuſe, ſtrongly charged vvith bul<g ref="char:EOLhyphen"/>let, into the Barge vvhere hir Maieſtie vvas. (God that hath defended hir, God that hath defended hir, thou moſt mightie God euer vouchſafe to keepe hir.) With this blovv the
+<pb facs="tcp:13991:3"/>
+               <!-- PDF PAGE 73 -->ſecond ma<g ref="char:cmbAbbrStroke">̄</g> to the bayles of the Barge, vvith<g ref="char:EOLhyphen"/>in ſixe foote of hir royall perſon,<note place="margin">A ſtraunge and a horrible terrour neuer hard nor ſeene the like in Englad before.</note> vvas ſtricke<g ref="char:cmbAbbrStroke">̄</g> dovvn from his feate, and vvounded through both his armes, vvhich hir maieſtie behelde, &amp; kingly handled this cauſe, as eue<g ref="char:cmbAbbrStroke">̄</g> ſtraight I vvil tel you.</p>
+            <p>My Lordes of hir Maieſties counſel diſ<g ref="char:EOLhyphen"/>pearſed abroade in their affaires,<note place="margin">The ſodaine great feare of the Lordes of the Caunſell at the heering of theſe terri<g ref="char:EOLhyphen"/>ble newes.</note> hearing of this moſte perilous accidente, returned to Court, vvith ſuche ſpeede as the vvaighte of ſuch a cauſe might moue them to doe, and there vvith fearefull and louing applauſure tovvard hir Maieſtie, did moſt holily thanke our God for his ſingular helpe in the preſer<g ref="char:EOLhyphen"/>uation of our moſt deare and righteous So<g ref="char:EOLhyphen"/>ueraigne.</p>
+            <p>That done according, vvith their loues, and duties of ſeruice to God, hir maieſtie &amp; this vvhole eſtate: after deliberate, and moſte graue conſultation of the cauſe, they al moſt humbly on their knees beſought the Queene that this ſlaue might ſuffer, not this death,<note place="margin">The Counſell most deſirous to puniſhe this facte.</note> but tenne thouſand deaths (if ſo it vvere poſ<g ref="char:EOLhyphen"/>ſible in nature to do) for his ſo raſh &amp; feare<g ref="char:EOLhyphen"/>full offence. Such, in deede, might the offe<g ref="char:cmbAbbrStroke">̄</g>ce
+<pb facs="tcp:13991:4"/>
+               <!-- PDF PAGE 74 -->haue bene, vvhich God for his mercies ſake hath moſte fauourablye forbidden, that it mighte haue roughte vppe to heauen, and ſhould moſt miſerably not only haue plaged this hir ovvn land,<note place="margin">It was ſtra<g ref="char:cmbAbbrStroke">̄</g>ge to ſee the peo<g ref="char:EOLhyphen"/>ple ſtaring in M. <g ref="char:V">Ʋ</g>izcham<g ref="char:EOLunhyphen"/>berlains face, ſome weeping, at the ſpeking of theſe words</note> but al the true ſeruaunts of God diſpearſed through Chriſtendome: our Religion, &amp; true faith in Ieſus Chriſt, vvhich vve enioy vvith vnſpekeable comfort of free conſcience, might hereby haue ſuffered con<g ref="char:EOLhyphen"/>fuſion, and perſecution of bloude, and ven<g ref="char:EOLhyphen"/>geaunce amongſt vs. Our peace, and ſecure eſtates, encreaſed vvith exceeding vvelthes, and nouriſhed vvith moſt ſvveet quietneſſe of life by this hir moſt happie gouernment, and raigne of tvventie yeares, might hereby haue bene turned to blouddie vvarres, the fruites vvhereof is burning and ſpoyling of houſes and goods, rauishing and deſtroy<g ref="char:EOLhyphen"/>ing of our vviues and children. And vvhat vengea<g ref="char:cmbAbbrStroke">̄</g>ce ſoeuer the vvorld can bring forth,<note place="margin">Here they left all both hands and eyes to heauen, ſaying God bleſſe hir Maiestie god bleſſe hir ma<g ref="char:EOLhyphen"/>iestie. &amp;c.</note> the ſame ſhould haue fallen on vs, I ſaye on vs, then the moſt miſerable me<g ref="char:cmbAbbrStroke">̄</g> in the vvorld. And therfore heare me I pray you. Let vs acknovvledge before God vvith all humble thankefulneſſe theſe vnſpeakeable benefits,
+<pb facs="tcp:13991:4"/>
+               <!-- PDF PAGE 74 -->vvhich vve haue inioyed, and ſtill shal doe, vvhile God vpholdeth hir bleſſed life, and ſtate amongſt vs. The loſſe, and lacke of vvhom,<note place="margin">Here the peo<g ref="char:EOLhyphen"/>ple with tears ſhewed them<g ref="char:EOLhyphen"/>ſelues moste ſorrowfull of theſe tragi<g ref="char:EOLhyphen"/>call ſpeaches.</note> can not but bring on vs all theſe ca<g ref="char:EOLhyphen"/>lamities, and ten thouſand moe, vvhich I can not for ſee. If then by theſe, and all other be<g ref="char:EOLhyphen"/>nefits, vvhich you poſſeſſe, feele, and taſt of, you finde hovv ineſtimable, and precious a ievvell this our deare Soueraine is for vs, and amongſt vs, vvhat plague, torment, or pu<g ref="char:EOLhyphen"/>niſhment, could ſuffiſe you for reuenge on him, that by any means ſhould depriue you of ſuch heauenly, and vvorldly felicities, as daylye by hir holye hande are miniſtred a<g ref="char:EOLhyphen"/>mongſt you? But I vvill meddle no further vvith theſe matters. I knovv you thanke god for them, and vvith true and faithfull obedi<g ref="char:EOLhyphen"/>ent hartes vvil euer ſerue hir moſt excellent Maieſtie, vvhom he hath made his miniſter to diſtribute all theſe bleſsings into yours boſomes.</p>
+            <p>And novv, if it pleaſe you, you may vvith maruel heare the meſſage I come of.<note place="margin">This ſodaine ſtraunge par<g ref="char:EOLhyphen"/>don amazed the people.</note> I bring mercie to this man, the gracious pardon of our moſt deare Soueraigne, vvho vvith hyr
+<pb facs="tcp:13991:5"/>
+               <!-- PDF PAGE 75 -->mercifull eie,<note place="margin">The gretneſſe of h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Maie<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> m<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cye ſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>med ſuche, as the people betwene ioyes and ſorrowes were amaſed.</note> beholding the cleareneſſe of this mans hart, free from euil thoughte, and conſequently from prepenſion of anye ma<g ref="char:EOLhyphen"/>licious fact againſt hir perſon, vouchſafeth to pull him from the Gallovvs. A notable a<g ref="char:EOLhyphen"/>ction of compaſsion proceding from a hea<g ref="char:EOLhyphen"/>uenly minde, and ſo farre different from the common nature of man, forced into a feare<g ref="char:EOLhyphen"/>full iealouſie of loſſe of life, as hath neuer bin read nor heard of.</p>
+            <p>If caſually a man ſuffer hurt in the fieldes by an arrovve ſhotte by chaunce at rouing markes,<note place="margin">A true deſcri<g ref="char:EOLunhyphen"/>ption of mans fraile nature in ſeeking re<g ref="char:EOLhyphen"/>uenge, confir<g ref="char:EOLhyphen"/>med with ex<g ref="char:EOLhyphen"/>amples.</note> hovv reuengefully the partie offen<g ref="char:EOLhyphen"/>ded vvill follovve his proceſſe of felonie, I haue oft ſeene, and the lavv doth vvel allovv it. If in the Court the meaneſt ſeruing man ſtrike his felovv vvith his fiſt ſo that he bleed, he is to looſe the ſame hand. Manye other examples may be giuen you, both touching the caſualtie in this mans fact, and touching the place, and preſence, vvherein it chanced to be done.<note place="margin">Here hee no<g ref="char:EOLhyphen"/>teth the hea<g ref="char:EOLhyphen"/>uenlie dispoſi<g ref="char:EOLhyphen"/>tio<g ref="char:cmbAbbrStroke">̄</g> of hir Ma<g ref="char:EOLhyphen"/>iestie, far dif<g ref="char:EOLhyphen"/>ferente from the nature of man, in par<g ref="char:EOLhyphen"/>donyng ſo gret an offence a<g ref="char:EOLhyphen"/>gainst lawe and nature.</note>
+            </p>
+            <p>But our Queene looketh neither on hyr prerogatiue, on the povver of hir lavves, nor on the perill of hir perſon, but vvith the no<g ref="char:EOLhyphen"/>bilitie
+<pb facs="tcp:13991:5"/>
+               <!-- PDF PAGE 75 -->of hir hearte, the daunger onely done to hir ſelfe, doth as you heare, freely pardon it. And in the ſacred vvord of hir kinglie eſtate I proteſt it vnto you, ſhe hath firmely auovved that ſhe had rather haue ſuffred the vvounds the Bargeman novv hath, ten folde,<note place="margin">See the exce<g ref="char:EOLhyphen"/>ding loue of a priace toward hir ſubiectes, in excuſing all accidents without anye ſuspition of all meaning.</note> than the meaneſt of vs al, or of any ſubiects, ſhould ſuffer the ſlaunder of ſo tyrannous or trayterous a facte, yea, or of the prepenſion, or forethoughte of ſo horrible a treaſon to<g ref="char:EOLhyphen"/>vvarde hir, though it vvere in facte neuer ex<g ref="char:EOLhyphen"/>ecuted.</p>
+            <p>Wherein to all our ſingular comfortes, it pleaſed hir vvith moſt princelie affection &amp; earneſtneſſe, graciouſly to affirme, that ne<g ref="char:EOLhyphen"/>uer Prince had better, nor more kinde true Subiectes. God for his mercie directe vs, e<g ref="char:EOLhyphen"/>uer to be ſo,<note place="margin">Here all the people ſhou<g ref="char:EOLhyphen"/>ted oute A<g ref="char:EOLhyphen"/>men, Amen.</note> and vvith our due gratefulneſſe to ſacrifiſe at hir kinglie feete our bloud and lyues for hir ſeruice ſake, vvhen occaſion ſhal call vs thereto.</p>
+            <p>
+               <note place="margin">M. Carie was master to this leud man <hi>AP<g ref="char:EOLhyphen"/>PELTREE,</hi> and Knight Mar<g ref="char:EOLhyphen"/>ſhall for that day apoynted.</note>One other thing I find hir Maieſtie trou<g ref="char:EOLhyphen"/>bled vvith, that is, the ſorovv this noble young Gentleman, M. Henrie Carie, hath ſuffered in continual griefe of his hart for the offence
+<pb facs="tcp:13991:6"/>
+               <!-- PDF PAGE 76 -->of his man, vvho through the vaine ieloſie of ſome euill dyſpoſed perſons, hath lykevviſe borne ſome ſclaunder of the cauſe. But it ſuffiſeth to cleare him, that no intent of ma<g ref="char:EOLhyphen"/>lice, nor forethought of this facte, is founde in the partie himſelfe.<note place="margin">M. Caries co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>mendation.</note> His conuerſation be<g ref="char:EOLhyphen"/>ſides vvith exceeding fayth and diligence in hir highneſſe ſeruice, vvil euer deliuer him, as a moſt acceptable Gentleman free from this and all other euil in the ſight of hir Maieſtie and all the vvorlde: I ſhall not need therfore to ſpeake of him, for his cauſe needeth none excuſe.</p>
+            <p>
+               <note place="margin">He reciteth the Queenes vertues, and moſt worthily commendeth hir rare cou<g ref="char:EOLhyphen"/>rage in ſuch a pilous chance.</note>Here may you beholde the rare goodnes of our greate and gracious Miſtreſſe, full of Religion &amp; pietie, Iuſtice and mercie, Tem<g ref="char:EOLhyphen"/>perance and magnanimitie (and that I can<g ref="char:EOLhyphen"/>not but tell you) of the moſt conſtant and noble courage that euer liued: the proofe vvhereof (the cauſe hard, vvherat I vvas pre<g ref="char:EOLhyphen"/>ſent) I leaue to your iudgements.</p>
+            <p>Hir Maieſtie taking proſpecte out of the bales of hir Barge,<note place="margin">Behold hir princely ſtout<g ref="char:EOLhyphen"/>neſſe nothing diſmayed at this ſodaine terror, but with ſuch care to this poore wou<g ref="char:cmbAbbrStroke">̄</g>ded man and with ſuch counte<g ref="char:EOLhyphen"/>naunce to the Embaſſadour, that ſhe ſee<g ref="char:EOLhyphen"/>med a mother to the one and a Queene to the other.</note> at the very inſtant did ſee the man ſtroken, and behelde his fall, and heard, as it vvere, his deadly ſcritche, vvhom
+<pb facs="tcp:13991:6"/>
+               <!-- PDF PAGE 76 -->ſhe immediately commaunded to bee taken vppe, and then beholding him all embrued vvith bloud, commaunded his vvoundes to be lapped vp vvith a ſcarffe of hir ovvne, and ſo vvith hir moſt conſtant and amiable cou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tenance, continued hir entertainment of the Embaſſadour, as though there had bene no ſuch matter. Aftervvardes the man began to fainte, hir highneſſe then commaunded a cloke to be put on his body, vvith other ſuch neceſſarie reliefes as vvere there preſentely to be had, vvithout alteration of countenance.</p>
+            <p>Beholde this kinglie heart, and courage of rare magnanimitie, ſeing, as it vvere, the pre<g ref="char:EOLhyphen"/>ſent death of the next to hir,<note place="margin">Hir highneſſe magnanimity mingled with mercie, the one moſt com<g ref="char:EOLhyphen"/>fortable to hir ſubiectes, and the other moſt terrible to hir foes.</note> neyther feared hir ovvnelyfe, nor vvas diſmayed vvith this treaſonable chaunce. An action more than maruellous in hir ſexe. Hereof hovv much vve may reioyce, I vvant vvit to tell you. But in one vvorde, hir highneſſe, that vvith hir ſingular vviſdome and policy hath preſerued hir Empire theſe tvventie yeares in moſt ioy<g ref="char:EOLhyphen"/>full peace, vvith this courage and magnani<g ref="char:EOLhyphen"/>mitie vvill (no doubt) as mightily defend vs in the moſt cruell vvarres. God therefore
+<pb facs="tcp:13991:7"/>
+               <!-- PDF PAGE 77 -->euer bliſſe hir, and let vs vvith oure handes ſtretched vp to heauen, and oure eyes fixed on the ſeate of God, pray for hir long lyfe, and moſte proſperous raigne ouer vs. THOMAS APPELTREE receyue thy lyfe from hir moſt excellent Maieſtie,<note place="margin">An earnest exhortation to pray.</note> and praye vnto God vpon thy knees for hir all thy dayes to come. &amp;c.</p>
+            <p>
+               <note place="margin">Here M.Viz chamberlaine kneled on his knees, with all the people prayſing God for hir ma<g ref="char:EOLhyphen"/>iesties ſafe <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>liuerie.</note>And ſo the people being moued to prayer for his Maieſties moſte happie eſcape, and for the bleſsing of God to lengthen hir dayes for many and many yeares, he fell dovvne on his knees vvith greate deuotion amongſt them, and ſo departed vvith exceding ioy to the people, and a thouſand bleſsings on himſelfe.</p>
+            <pb facs="tcp:13991:7"/>
+            <!-- PDF PAGE 77 -->
+         </div>
+      </body>
+   </text>
+</TEI>
